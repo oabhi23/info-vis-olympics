@@ -91,9 +91,7 @@ Ireland,IRL,76
 Iraq,IRQ,20
 Iceland,ISL,8
 Israel,ISR,47
-"Virgin Islands, US",ISV,7
 Italy,ITA,309
-"Virgin Islands, British",IVB,4
 Jamaica,JAM,56
 Jordan,JOR,8
 Japan,JPN,335
@@ -155,7 +153,6 @@ Portugal,POR,90
 North Korea,PRK,31
 Puerto Rico,PUR,40
 Qatar,QAT,37
-,ROT,10
 Romania,ROU,95
 South Africa,RSA,135
 Russia,RUS,284
@@ -163,7 +160,6 @@ Rwanda,RWA,7
 Samoa,SAM,8
 Senegal,SEN,22
 Seychelles,SEY,10
-,SGP,25
 Saint Kitts,SKN,6
 Sierra Leone,SLE,4
 Slovenia,SLO,63
@@ -192,7 +188,6 @@ Taiwan,TPE,55
 Trinidad,TTO,28
 Tunisia,TUN,61
 Turkey,TUR,100
-,TUV,1
 United Arab Emirates,UAE,12
 Uganda,UGA,21
 Ukraine,UKR,204
