@@ -1,17 +1,185 @@
 name,code,pop
+Afghanistan,AFG,3
 Albania,ALB,6
 Algeria,DZA,64
+American Samoa,ASM,4
 Andorra,AND,4
 Angola,AGO,26
-Antigua,ATG,8
-Argentina,ARG,215
-Australia,AUS,420
-Austria,AUT,71
-Brazil,BRA,462
-China,CHN,392
+Antigua and Barbuda,ATG,8
+Argentina,ARG,213
+Armenia,ARM,31
+Aruba,ABW,7
+Australia,AUS,414
+Austria,AUT,67
+Azerbaijan,AZE,56
+Bahamas,BHS,29
+Bahrain,BHR,33
+Bangladesh,BGD,7
+Barbados,BRB,11
+Belarus,BLR,120
+Belgium,BEL,104
+Belize,BLZ,3
+Benin,BEN,6
+Bermuda,BMU,8
+Bhutan,BTN,2
+Bolivia,BOL,12
+Bosnia and Herzegovina,BIH,11
+Botswana,BWA,12
+Brazil,BRA,452
+British Virgin Islands,VGB,4
+Bulgaria,BGR,51
+Burkina Faso,BFA,5
+Burundi,BDI,9
+Cambodia,KHM,6
+Cameroon,CMR,22
+Canada,CAN,302
+Cape Verde,CPV,5
+Cayman Islands,CYM,5
+Central African Republic,CAF,6
+Chad,TCD,2
+Chile,CHL,42
+China,CHN,380
+Colombia,COL,143
+Comoros,COM,4
+Cook Islands,COK,9
+Costa Rica,CRI,11
+Cote d'Ivoire,CIV,12
+Croatia,HRV,85
+Cuba,CUB,117
+Cyprus,CYP,15
+Czech Republic,CZE,103
 Denmark,DNK,119
-Spain,ESP,307
+Djibouti,DJI,7
+Dominica,DMA,2
+Dominican Republic,DOM,26
+Ecuador,ECU,37
+Egypt,EGY,121
+El Salvador,SLV,8
+Equatorial Guinea,GNQ,1
+Eritrea,ERI,12
+Estonia,EST,46
+Ethiopia,ETH,37
+Fiji,FJI,53
+Finland,FIN,54
+France,FRA,390
+Gabon,GAB,6
+Gambia,GMB,4
+Georgia,GEO,40
+Germany,DEU,413
+Ghana,GHA,13
+Greece,GRC,92
+Grenada,GRD,6
+Guam,GUM,5
+Guatemala,GTM,21
+Guinea,GIN,5
+Guyana,GUY,6
+Haiti,HTI,10
+Honduras,HND,23
+Hong Kong,HKG,37
+Hungary,HUN,154
+Iceland,ISL,8
 India,IND,112
+Indonesia,IDN,24
+Iraq,IRQ,20
+Ireland,IRL,76
+Israel,ISR,47
+Italy,ITA,305
+Jamaica,JAM,56
+Japan,JPN,335
+Jordan,JOR,8
+Kazakhstan,KAZ,101
+Kenya,KEN,79
+Kiribati,KIR,3
+Kyrgyzstan,KGZ,19
+Latvia,LVA,32
+Lebanon,LBN,9
+Lesotho,LSO,8
+Liberia,LBR,2
+Liechtenstein,LIE,3
+Lithuania,LTU,67
+Luxembourg,LUX,10
+Madagascar,MDG,6
+Malawi,MWI,5
+Malaysia,MYS,32
+Maldives,MDV,4
+Mali,MLI,6
+Malta,MLT,7
+Marshall Islands,MHL,5
+Mauritania,MRT,2
+Mauritius,MUS,11
 Mexico,MEX,123
-Netherlands,NLD,237
-United States,USA,555
+Monaco,MCO,3
+Mongolia,MNG,43
+Montenegro,MNE,35
+Morocco,MAR,48
+Mozambique,MOZ,6
+Namibia,NAM,10
+Nauru,NRU,2
+Nepal,NPL,7
+Netherlands,NLD,229
+New Zealand,NZL,195
+Nicaragua,NIC,5
+Niger,NER,6
+Nigeria,NGA,71
+Norway,NOR,62
+Oman,OMN,4
+Pakistan,PAK,7
+Palau,PLW,5
+Palestine,PSE,6
+Panama,PAN,10
+Papua New Guinea,PNG,8
+Paraguay,PRY,11
+Peru,PER,29
+Philippines,PHL,13
+Poland,POL,230
+Portugal,PRT,90
+Puerto Rico,PRI,40
+Qatar,QAT,37
+Romania,ROU,94
+Russia,RUS,279
+Rwanda,RWA,7
+Saint Kitts and Nevis,KNA,6
+Saint Lucia,LCA,5
+Saint Vincent and the Grenadines,VCT,4
+Samoa,WSM,8
+San Marino,SMR,4
+Sao Tome and Principe,STP,3
+Saudi Arabia,SAU,10
+Senegal,SEN,22
+Serbia,SRB,103
+Seychelles,SYC,10
+Sierra Leone,SLE,4
+Singapore,SGP,25
+Slovakia,SVK,51
+Slovenia,SVN,63
+Solomon Islands,SLB,3
+Somalia,SOM,2
+South Africa,ZAF,135
+Spain,ESP,304
+Sri Lanka,LKA,9
+Sudan,SDN,6
+Suriname,SUR,6
+Swaziland,SWZ,2
+Sweden,SWE,150
+Switzerland,CHE,98
+Tajikistan,TJK,7
+Thailand,THA,54
+Togo,TGO,5
+Tonga,TON,7
+Trinidad and Tobago,TTO,28
+Tunisia,TUN,61
+Turkey,TUR,100
+Turkmenistan,TKM,9
+Tuvalu,TUV,1
+Uganda,UGA,21
+Ukraine,UKR,201
+United Arab Emirates,ARE,12
+United States,USA,544
+United States Virgin Islands,VIR,7
+Uruguay,URY,17
+Uzbekistan,UZB,70
+Vanuatu,VUT,4
+Venezuela,VEN,85
+Yemen,YEM,3
+Zambia,ZMB,7
+Zimbabwe,ZWE,30
